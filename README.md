@@ -8,7 +8,7 @@
   Front-End Developer
 </h3>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="./.github/assets/lineBar.png" width="100%" height="80px"/>
 
 <div><br />
 
